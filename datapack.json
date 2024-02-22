@@ -1,0 +1,55 @@
+[
+  {
+    "type": "House",
+    "name": "Atlant",
+    "description": "2-bedroom",
+    "price": 13000,
+    "floor": 5
+  }, {
+    "type": "Flat",
+    "name": "Expo boulevard",
+    "description": "1-bedroom",
+    "price": 10500,
+    "floor": 6
+  }, {
+    "type": "Flat",
+    "name": "Batyr",
+    "description": "3-bedroom",
+    "price": 18000,
+    "floor": 7
+  }, {
+    "type": "House",
+    "name": "Penthouse",
+    "description": "4-bedroom",
+    "price": 26000,
+    "address": "Batyr Bayana 43"
+  },
+  {
+    "type": "House",
+    "name": "Country hous",
+    "description": "3-bedroom",
+    "price": 21000,
+    "address": "Zhakana Smakova 25"
+  },
+  {
+    "type": "House",
+    "name": "Penthouse",
+    "description": "6-bedroom",
+    "price": 36000,
+    "address": "Batyr Bayana 45"
+  },
+  {
+    "type": "House",
+    "name": "Country house",
+    "description": "4-bedroom",
+    "price": 27000,
+    "address": "Zhakana Smakova 21"
+  },
+  {
+    "type": "House",
+    "name": "Penthouse",
+    "description": "5-bedroom",
+    "price": 32000,
+    "address": "Batyr Bayana 41"
+  }
+]
